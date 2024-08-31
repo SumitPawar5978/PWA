@@ -40,6 +40,7 @@ import {
 export default function Index() {
   const dispatch = useDispatch();
   const Swal = require("sweetalert2");
+  console.log("test")
   const Toast = Swal.mixin({
     toast: true,
     position: "top-end",
