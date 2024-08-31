@@ -1,0 +1,19 @@
+.prop_card_box:hover .prop_icon{
+    border: 3px solid #6885A3;
+    border-radius: 50%;
+    transition: 0.9s cubic-bezier(0, 0.43, 0.6, 1.24) all;
+}
+
+.poppins_600{
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 600 !important;
+}
+.poppins_400{
+    font-family: 'Poppins', sans-serif !important;
+    font-weight: 400 !important;
+}
+
+.roboto_400{
+    font-family: 'Roboto', sans-serif !important;
+    font-weight: 400 !important;
+}
